@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import useLocalStorage from '../useLocalStorage';
+import useLocalStorage from '../CustomHooks/useLocalStorage';
 
 const ComponentA = () => {
   const { setLocalStorage } = useLocalStorage();

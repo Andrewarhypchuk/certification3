@@ -1,5 +1,3 @@
-// TestComponent.js
-
 import React, { useState, useEffect } from "react";
 import AutoFilterDropdown from "./AutoFilter";
 
