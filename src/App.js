@@ -1,3 +1,4 @@
+import React from "react";
 import SampleTask2 from "./Components/SampleTask2";
 import SampleTask3 from "./Components/SampleTask3";
 import SampleTask1 from "./Components/SampleTask1";
